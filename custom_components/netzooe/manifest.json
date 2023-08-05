@@ -1,6 +1,7 @@
 {
   "domain": "netzooe",
   "name": "netzooe",
+  "version": "0.1.0",
   "codeowners": [
     "@Chaosflo"
   ],
